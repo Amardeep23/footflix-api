@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file for your Footflix API project:
-
----
 
 # Footflix API
 
@@ -34,9 +31,3 @@ The API will be available at `http://localhost:3000`.
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this template further as needed. If you have any questions or need additional assistance, feel free to ask!
